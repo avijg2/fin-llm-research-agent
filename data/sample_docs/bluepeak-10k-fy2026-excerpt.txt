@@ -1,0 +1,34 @@
+Company: Bluepeak Semiconductor
+Type: 10-k-excerpt
+Date: 2026-09-15
+Title: Bluepeak Semiconductor Fiscal 2026 Annual Report Excerpt (Sample)
+
+SAMPLE DOCUMENT - FICTIONAL COMPANY. This document was written for this
+project as a demo corpus. Bluepeak Semiconductor is a fictional company.
+No real filing, annual report, or company is quoted here.
+
+Bluepeak Semiconductor reported total revenue of $1,284.6 million in
+fiscal 2026, up 9.7% from $1,171.2 million in fiscal 2025. Revenue from
+data-centre chips was $742.8 million, while revenue from automotive
+chips was $318.5 million and revenue from consumer electronics chips was
+$223.3 million.
+
+Cost of revenue was $612.4 million, giving gross profit of $672.2 million
+and a gross margin of 52.3%. Research and development expense was
+$212.3 million in fiscal 2026, up from $188.9 million in fiscal 2025,
+as the company increased headcount on its next-generation 3-nanometre
+chip programme. Selling, general and administrative expense was $164.7
+million.
+
+Operating income was $295.2 million in fiscal 2026, compared with
+$251.6 million in fiscal 2025. Net income was $248.1 million, or $1.92
+per diluted share. The company generated $341.8 million of cash from
+operations and spent $128.6 million on capital expenditures, mainly for
+test equipment and a new packaging facility.
+
+Bluepeak's principal risks, as described in this excerpt, include
+concentration among a small number of large customers, supply-chain
+disruption for advanced packaging, and export controls affecting sales
+to certain markets. The company's largest customer accounted for 21% of
+fiscal 2026 revenue. Cash and investments at year end were $486.3
+million, and total debt was $150.0 million.
