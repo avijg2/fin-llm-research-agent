@@ -1,0 +1,28 @@
+Company: Harborline Retail Group
+Type: earnings-call
+Date: 2026-11-04
+Title: Harborline Retail Group Q3 2026 Earnings Call (Sample)
+
+SAMPLE DOCUMENT - FICTIONAL COMPANY. This document was written for this
+project as a demo corpus. Harborline Retail Group is a fictional company.
+No real filing, earnings call, or company is quoted here.
+
+Harborline Retail Group reported revenue of $856.4 million in the third
+quarter of 2026, down 2.1% year over year. Same-store sales declined
+1.8% in the quarter, as foot traffic fell in suburban locations while
+online sales grew 6.4% year over year to $204.7 million.
+
+Gross margin was 34.6%, down from 36.1% a year earlier, reflecting
+promotional pricing and higher freight costs. Operating income was
+$41.2 million, or 4.8% of revenue. Net income was $28.6 million, or
+$0.34 per diluted share. Inventory at the end of the quarter was
+$612.9 million, up 3.2% year over year, which management said reflected
+early holiday-season stocking.
+
+Management said the company opened 6 new stores and closed 4 under-
+performing stores in the quarter, ending with 812 stores. The company
+expects fourth-quarter revenue of $940 million to $965 million, with
+same-store sales roughly flat. Full-year 2026 revenue is expected to be
+$3,410 million to $3,435 million. Chief Financial Officer Daniel Okafor
+said the company would prioritise inventory discipline and cost control
+over new store openings in 2027.
