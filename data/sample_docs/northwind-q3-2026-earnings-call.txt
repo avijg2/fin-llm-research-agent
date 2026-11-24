@@ -1,0 +1,37 @@
+Company: Northwind Cloud Systems
+Type: earnings-call
+Date: 2026-10-28
+Title: Northwind Cloud Systems Q3 2026 Earnings Call (Sample)
+
+SAMPLE DOCUMENT - FICTIONAL COMPANY. This document was written for this
+project as a demo corpus. Northwind Cloud Systems is a fictional company.
+No real filing, earnings call, or company is quoted here.
+
+Northwind Cloud Systems reported revenue of $412.8 million in the third
+quarter of 2026, up 18.4% year over year. The cloud infrastructure segment
+was the main driver of growth, earning $298.1 million in the quarter, up
+24.6% year over year, as large enterprise customers expanded their usage
+of Northwind's managed database and analytics services.
+
+Gross margin in Q3 2026 was 71.2%, compared with 69.8% in the same quarter
+a year earlier. Management attributed the improvement to a shift toward
+higher-margin software subscriptions and to lower hosting costs after the
+migration of two data centres to more efficient hardware.
+
+Operating income was $86.4 million, or 20.9% of revenue. Net income was
+$71.9 million, or $0.58 per diluted share. Free cash flow was $94.2
+million in the quarter, and the company ended the quarter with $521.6
+million in cash and short-term investments and no outstanding debt.
+
+For the fourth quarter of 2026, management guided revenue of $430 million
+to $445 million, which would represent growth of 15% to 19% year over
+year. The company also raised its full-year 2026 revenue guidance to a
+range of $1,620 million to $1,635 million. Management said the guidance
+assumes no major change in enterprise spending and a stable foreign
+exchange environment.
+
+Chief Executive Officer Maya Chen said demand for the company's new
+real-time analytics product remained strong, with more than 40 customers
+now in paid pilots. The company added 112 net new enterprise customers
+in the quarter, bringing the total to 2,418. Net revenue retention was
+118%, unchanged from the prior quarter.
